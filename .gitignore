@@ -120,6 +120,9 @@ venv.bak/
 # mkdocs documentation
 /site
 
+#jupyter notebook checkpoints
+.ipynb_checkpoints
+
 # mypy
 .mypy_cache/
 .dmypy.json
